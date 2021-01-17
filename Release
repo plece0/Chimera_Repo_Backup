@@ -1,8 +1,0 @@
-Origin: Chimera1n Mirror
-Label: Chimera1n Mirror
-Suite: stable
-Version: 1.0
-Codename: ios
-Architectures: iphoneos-arm
-Components: main
-Description: Repo of Chimera repo for Chimera1n
