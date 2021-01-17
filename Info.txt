@@ -1,0 +1,2 @@
+Name: Chimera/chimera1n Repo (mirror)
+Description: Core Utilities for the Chimera and chimera1n jailbreak
