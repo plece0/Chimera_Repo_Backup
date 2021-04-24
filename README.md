@@ -1,3 +1,5 @@
-I can't be asked to go through the work of getting this repo working properly
-So I'm just hosting mirrors of every file on the Chimera repo from mid-to-late 2020.
-They're organized so, as you need them, download files and install them with Filza.
+This contains a complete mirror of the Chimera repo from Mid-2020.
+This is for all my Electra/Legacy Chimera/Chimera1n users.
+Feel free to turn the files here into an actual repo mirror.
+
+I take no credit for the contents of this mirror.
